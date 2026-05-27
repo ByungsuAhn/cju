@@ -1,0 +1,6 @@
+{
+  "name": "청주대학교 캠퍼스 포털",
+  "description": "청주대학교의 활기찬 캠퍼스 라이프, 동아리 정보, 중앙도서관 서비스 및 최신 공지사항을 제공하는 통합 캠퍼스 포털입니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
